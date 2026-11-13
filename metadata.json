@@ -1,0 +1,6 @@
+{
+  "name": "EcoPulse — Smart Dustbin ML & IoT Simulator",
+  "description": "AI-Based Smart Dustbin Fill-Level Detection, Prediction and Automatic Alert System using browser-based Random Forest ML, Linear Regression, and HC-SR04 Ultrasonic Sensor simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
